@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+.content {
+    text-align: center; /* Center-align the content */
+}
+
+table {
+    margin: 0 auto; /* Center-align the table within its parent container */
+    border-collapse: collapse; /* Collapse borders between table cells */
+    width: 80%; /* Set the width of the table */
+    border: 2px solid #000; /* Add border to the table */
+}
+
+table th, table td {
+    padding: 10px; /* Add padding to table cells for better spacing */
+    border: 1px solid #000;
+}
